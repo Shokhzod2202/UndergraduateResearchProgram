@@ -1,0 +1,4 @@
+# label:color_rgb:parts:actions
+Just_image:23,77,120::
+background:0,0,0::
+stop_sign:240,0,128::
